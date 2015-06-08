@@ -1,0 +1,16 @@
+{
+  "name": "distri-backend",
+  "version": "1.0.0",
+  "description": ".Backend Server",
+  "main": "index.js",
+  "repository":"https://github.com/lojals/distri-backend",
+  "dependencies": {
+    "mongodb": "^2.0.33"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "dpd"
+  },
+  "author": "Jorge R Ovalle Z",
+  "license": "MIT"
+}

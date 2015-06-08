@@ -1,0 +1,29 @@
+{
+	"type": "Collection",
+	"properties": {
+		"type": {
+			"name": "type",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "type",
+			"order": 0
+		},
+		"properties": {
+			"name": "properties",
+			"type": "object",
+			"typeLabel": "object",
+			"required": false,
+			"id": "properties",
+			"order": 1
+		},
+		"geometry": {
+			"name": "geometry",
+			"type": "object",
+			"typeLabel": "object",
+			"required": false,
+			"id": "geometry",
+			"order": 2
+		}
+	}
+}

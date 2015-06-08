@@ -1,0 +1,21 @@
+{
+	"type": "Collection",
+	"properties": {
+		"type": {
+			"name": "type",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "type",
+			"order": 0
+		},
+		"coordinates": {
+			"name": "coordinates",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "coordinates",
+			"order": 1
+		}
+	}
+}

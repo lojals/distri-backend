@@ -1,0 +1,45 @@
+{
+	"type": "Collection",
+	"properties": {
+		"iconUrl": {
+			"name": "iconUrl",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "iconUrl",
+			"order": 0
+		},
+		"iconSize": {
+			"name": "iconSize",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "iconSize",
+			"order": 1
+		},
+		"iconAnchor": {
+			"name": "iconAnchor",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "iconAnchor",
+			"order": 2
+		},
+		"popupAnchor": {
+			"name": "popupAnchor",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "popupAnchor",
+			"order": 3
+		},
+		"className": {
+			"name": "className",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "className",
+			"order": 4
+		}
+	}
+}

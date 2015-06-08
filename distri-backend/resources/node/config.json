@@ -1,0 +1,53 @@
+{
+	"type": "Collection",
+	"properties": {
+		"type": {
+			"name": "type",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "type",
+			"order": 0
+		},
+		"name": {
+			"name": "name",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "name",
+			"order": 1
+		},
+		"image": {
+			"name": "image",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "image",
+			"order": 2
+		},
+		"relations": {
+			"name": "relations",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "relations",
+			"order": 3
+		},
+		"article": {
+			"name": "article",
+			"type": "boolean",
+			"typeLabel": "boolean",
+			"required": false,
+			"id": "article",
+			"order": 4
+		},
+		"typeNode": {
+			"name": "typeNode",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "typeNode",
+			"order": 5
+		}
+	}
+}
