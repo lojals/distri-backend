@@ -1,2 +1,0 @@
-# distri-backend
-Server component
