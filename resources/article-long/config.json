@@ -1,0 +1,93 @@
+{
+	"type": "Collection",
+	"properties": {
+		"intro": {
+			"name": "intro",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "intro",
+			"order": 0
+		},
+		"origin": {
+			"name": "origin",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "origin",
+			"order": 1
+		},
+		"activity": {
+			"name": "activity",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "activity",
+			"order": 2
+		},
+		"sound": {
+			"name": "sound",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "sound",
+			"order": 3
+		},
+		"discography": {
+			"name": "discography",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "discography",
+			"order": 4
+		},
+		"scenario": {
+			"name": "scenario",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "scenario",
+			"order": 5
+		},
+		"maincover": {
+			"name": "maincover",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "maincover",
+			"order": 6
+		},
+		"subtitle": {
+			"name": "subtitle",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "subtitle",
+			"order": 7
+		},
+		"textarticle": {
+			"name": "textarticle",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "textarticle",
+			"order": 8
+		},
+		"videos": {
+			"name": "videos",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "videos",
+			"order": 9
+		},
+		"idnode": {
+			"name": "idnode",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "idnode",
+			"order": 10
+		}
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"type": "Collection",
+	"properties": {
+		"nacionality": {
+			"name": "nacionality",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "nacionality",
+			"order": 0
+		},
+		"family": {
+			"name": "family",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "family",
+			"order": 1
+		},
+		"material": {
+			"name": "material",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "material",
+			"order": 2
+		},
+		"features": {
+			"name": "features",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "features",
+			"order": 3
+		},
+		"famousplayers": {
+			"name": "famousplayers",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "famousplayers",
+			"order": 4
+		},
+		"description": {
+			"name": "description",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "description",
+			"order": 5
+		},
+		"idnode": {
+			"name": "idnode",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "idnode",
+			"order": 6
+		}
+	}
+}

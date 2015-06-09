@@ -1,0 +1,29 @@
+{
+	"type": "Collection",
+	"properties": {
+		"subtitle": {
+			"name": "subtitle",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "subtitle",
+			"order": 0
+		},
+		"textarticle": {
+			"name": "textarticle",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "textarticle",
+			"order": 1
+		},
+		"idnode": {
+			"name": "idnode",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "idnode",
+			"order": 2
+		}
+	}
+}
